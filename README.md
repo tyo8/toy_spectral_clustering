@@ -4,5 +4,5 @@ The toy model script computes random geometric graphs generated from random poin
 - [matplolib][1]
 - [networkx][2]
 
-[1] https://matplotlib.org/stable/
-[2] https://networkx.org/
+[1]: https://matplotlib.org/stable/
+[2]: https://networkx.org/

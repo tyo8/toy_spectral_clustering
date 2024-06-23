@@ -1,4 +1,4 @@
-The toy model script computes random geometric graphs generated from random point clouds in Euclidean 3-space under a (a) a uniform distribution, (b) Gaussian clusters around multiple centers, and (c) a perturbed embedding of the unknot. It has two python dependencies:
+The toy model script computes random geometric graphs generated from random point clouds in Euclidean 3-space under a (a) a uniform distribution, (b) Gaussian clusters around multiple centers, and (c) a perturbed embedding of the unknot. It has two python dependencies (below).
 
 ----
 - [matplolib][1]
